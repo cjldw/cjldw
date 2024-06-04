@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+I'am+%22WEN.LO%22+alias+CJLDW+!;I'am+current+working+as+backend+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+I'am+%22WEN.LO%22+alias+CJLDW+!;I'am+current+working+as+joker:laughing:)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cjldw/cjldw/output/github-contribution-grid-snake-dark.svg">
