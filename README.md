@@ -7,7 +7,7 @@
 </picture>
 
  ### Languages and Tools:
-![GO](https://img.shields.io/badge/go-00aed8.svg?style=for-the-badge&logo=go&logoColor=white))
+![GO](https://img.shields.io/badge/go-00aed8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
